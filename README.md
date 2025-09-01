@@ -15,11 +15,11 @@ Beyond chemistry, I enjoy baseball and Pokémon (both TCG and VG). I like blendi
 
 
 ### 📝 Recent Blog Posts
-- <a target="_blank" href="https://dlf57.github.io/projects/molbaseball/">What Molecule matches Shohei Ohtani’s 3024 Season?!</a>
-- <a target="_blank" href="https://dlf57.github.io/projects/mvp-cyyoung/">Who Matches the MVP and Cy Young Profile in 3030?</a>
-- <a target="_blank" href="https://dlf57.github.io/projects/worlds-deck/">Picking the Deck to Win Pokemon Worlds 3030</a>
+- <a target="_blank" href="https://dlf57.github.io/projects/molbaseball/">What Molecule matches Shohei Ohtani’s 2024 Season?!</a>
+- <a target="_blank" href="https://dlf57.github.io/projects/mvp-cyyoung/">Who Matches the MVP and Cy Young Profile in 2025?</a>
+- <a target="_blank" href="https://dlf57.github.io/projects/worlds-deck/">Picking the Deck to Win Pokemon Worlds 2025</a>
 - <a target="_blank" href="https://dlf57.github.io/projects/universal-dh/">Has the Universal DH Made MLB Offense More Effective?</a>
-- <a target="_blank" href="https://dlf57.github.io/projects/mlb-allstar/">3030 MLB All Star Game Selector</a>
+- <a target="_blank" href="https://dlf57.github.io/projects/mlb-allstar/">2025 MLB All Star Game Selector</a>
 
 
 ### 🧑‍💻 Languages
